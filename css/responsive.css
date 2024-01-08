@@ -1,0 +1,210 @@
+@media screen and (min-width: 320px) and (max-width:768px) {
+
+    html{
+        font-size:8.5px;
+    }
+
+    
+    .icon-img img {
+        width: 130px;
+        margin-left: 15px;
+    }
+
+    .nav-social-icon {
+        margin-top: 0;
+    }
+
+    .banner-bottom {
+        padding: 10px;
+    }
+
+    .banner-content h3 {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .banner-bottom p {
+        font-size: 14px;
+    }
+
+    .banner-bottom h3 {
+        /* font-size: 35px; */
+        font-weight: bold;
+    }
+
+    .banner-bottom img {
+        display: none;
+    }
+
+    .banner-bottom h4 {
+        font-size: 18px;
+    }
+
+    .banner-content {
+        top: 148px;
+    }
+
+    .banner-content span {
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    .banner-content p {
+        font-size: 15px;
+    }
+
+    .left-img img {
+        height: 200px;
+        margin: 10px 0px;
+    }
+
+    .left-content h3 {
+        bottom: 10px;
+        margin-bottom: 0;
+    }
+
+    .left-content i {
+        top: 32%;
+        left: 42%;
+        height: 45px;
+        width: 45px;
+        font-size: 18px;
+    }
+
+    .right-content i {
+        top: 30%;
+        left: 40%;
+        height: 45px;
+        width: 45px;
+        font-size: 18px;
+    }
+
+    .right-content h3 {
+        bottom: 10px;
+        margin-bottom: 0;
+    }
+
+    .content h3 {
+        font-size: 25px;
+    }
+
+    .experience-bottom {
+        padding: 15px;
+    }
+
+    .content a {
+        padding: 7px 20px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .installtion-service {
+        padding: 20px;
+    }
+
+    .installtion-service h3 {
+        font-size: 21px;
+        font-weight: 500;
+        margin-bottom: 35px;
+    }
+
+    .img-sec img {
+        height: 180px;
+    }
+
+    .content-sec h4:after {
+        bottom: 170px;
+    }
+
+    .advantage-sec {
+        padding: 20px;
+    }
+
+    .advantage-sec h4 {
+        font-size: 25px;
+    }
+
+    .left-content h6 {
+        font-size: 16px;
+    }
+
+    .advantage-sec h5 {
+        font-size: 25px;
+        font-weight: 500;
+    }
+
+    .advantage-sec h5 span {
+        font-weight: 600;
+    }
+
+    .advantage-sec p {
+        margin-bottom: 20px;
+    }
+
+    .collection-sec {
+        padding: 15px;
+    }
+
+    .coll-content h2 {
+        font-size: 21px;
+        font-weight: 500;
+    }
+
+    .coll-content {
+        margin-right: 14px;
+    }
+
+    .coll-img-right img {
+        width: 195px;
+        height: 195px;
+        margin-left: 40px;
+        margin-bottom: 20px;
+    }
+
+    .coll-button-sec a {
+        padding: 8px 25px;
+        font-size: 12px;
+        margin-left: 45px;
+    }
+
+    .app-section {
+        padding: 15px;
+    }
+
+    .app-content h3 {
+        font-size: 65px;
+    }
+
+    .app-content h4 {
+        font-size: 25px;
+        font-weight: 600;
+        margin-bottom: 15px;
+    }
+
+    .app-content form {
+        margin-bottom: 12px;
+    }
+
+    label.customradio {
+        font-size: 18px;
+    }
+
+    .app-section-icon img {
+        margin-bottom: 25px;
+        width: 100%;
+    }
+
+    .app-section-right img {
+        width: 100%;
+    }
+
+    .footer-sec {
+        padding: 10px 0px;
+    }
+
+
+
+
+
+
+}
